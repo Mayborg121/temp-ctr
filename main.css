@@ -79,3 +79,18 @@ button:hover{
     padding: 15px;
     font-size: 3em;
 }
+footer{
+    
+    margin-top: auto;
+}
+#footertext {
+    background-color: hsl(57, 88%, 86%);
+    text-align: center;
+    margin: -5px 0 0 0;
+    padding-bottom: 3px;
+    color: rgb(67, 66, 66);
+}
+#footercontent{
+    margin: 0;
+    padding: 0;
+}
